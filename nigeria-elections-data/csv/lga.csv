@@ -1,0 +1,705 @@
+﻿id,name,address,inec_code,state_name,state_id,state_inec_code,cscdb_country_id,cscdb_country_code,cscdb_country_name
+1,Aba North,"C/O Local Government Council Secretariat, Eziama, Aba North",,ABIA STATE,1,AB,161,NG,Nigeria
+2,Aba South,"C/O Local Government Council Secretariat, Beside Chairman's Office",,ABIA STATE,1,AB,161,NG,Nigeria
+3,Arochukwu,"Local Government Area Secretariat, Complex-Barracks Road, Nkwunabo Amanagwu, Arochukwu",,ABIA STATE,1,AB,161,NG,Nigeria
+4,Bende,"C/O Local Government Area Secretariat,  Bende",,ABIA STATE,1,AB,161,NG,Nigeria
+5,Ikwano,"Local Government Council Secretariat, Isiala Oboro Ikwuano",,ABIA STATE,1,AB,161,NG,Nigeria
+6,Isiukwuato,"C/O Local Government Council Secretariat,  Mbalano, Isiukwuato, Isiukwuato",,ABIA STATE,1,AB,161,NG,Nigeria
+7,Isiala Ngwa North,"C/O Local Government Council Secretariat,  Obikabia, Okpuala Ngwa",,ABIA STATE,1,AB,161,NG,Nigeria
+8,Isiala Ngwa South,"Umuoba Council Secretariat, Isiala Ngwa",,ABIA STATE,1,AB,161,NG,Nigeria
+9,Ohafia,"Opposite Ohafia Girls Secondary School Village, Amaekpu, Ohafia",,ABIA STATE,1,AB,161,NG,Nigeria
+10,Osisioma,"C/O Local Government Council Secretariat,  Osisioma",,ABIA STATE,1,AB,161,NG,Nigeria
+11,Ugwunagbo,"C/O Local Government Council Secretariat,  Osusu-Aku, Ugwunagbo",,ABIA STATE,1,AB,161,NG,Nigeria
+12,Ukwa East,"C/O Local Government Council Secretariat,  Along Akwaaete Road, Akwaete",,ABIA STATE,1,AB,161,NG,Nigeria
+13,Ukwa West `,"C/O Local Government Council Secretariat,  Oke-Ikpe",,ABIA STATE,1,AB,161,NG,Nigeria
+14,Umuahia North,"No 5 Adelabu Street, Umuahia",,ABIA STATE,1,AB,161,NG,Nigeria
+15,Umuahia South,"C/O Local Government Council Secretariat,  Apumiri Ubakala, Umuahia South",,ABIA STATE,1,AB,161,NG,Nigeria
+16,Obi-Ngwa,"C/O Local Government Council Secretariat,  Amuzu Ohanze Eastern Ngwa",,ABIA STATE,1,AB,161,NG,Nigeria
+17,Umunneochi,"C/O Local Government Council Secretariat,  Nkwoagwu Isuochi, Umunneochi",,ABIA STATE,1,AB,161,NG,Nigeria
+18,Demsa,"Along Gombe Road, Demsa Town, Demsa Local Govt. Area",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+19,Fufore,"Gurin Road, Adjacent Local Govt. Guest House, Fufore Local Govt. Area",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+20,Ganye,"Along Federal Government College, Ganye Road, Ganye Lga",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+21,Girei,"Adjacent Local Govt. Guest Road, Girei Local Govt. Area",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+22,Gombi,"Sangere Gombi, Aong Yola Road, Gombi L.G.A",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+23,Guyukk,"Palamale Nepa Ward Guyuk Town, Guyuk Local Govt. Area",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+24,Hong,"Opposite Cottage Hospital Shangui Ward, Hong Local Govt. Area",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+25,Jada,"Old Secretariat, Jada Along Ganye Road, Jada",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+26,Lamurde,"Lafiya Lamurde Road, Lamurde Local Govt. Area",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+27,Madagali,"Palace Road, Gulak, Near Gulak Police Station, Madagali Lga",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+28,Maiha,"Behind Local Govt. Secretariat, Mayonguli Ward, Maiha",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+29,Mayo Belwa,Jalingo Road Near Maternity Mayo Belwa Lga,,ADAMAWA STATE,2,AD,161,NG,Nigeria
+30,Michika,Michika Bye-Pass Zaibadari Ward Michika Lga,,ADAMAWA STATE,2,AD,161,NG,Nigeria
+31,Mubi North,"Inside Local Govt. Secretariat, Mubi North",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+32,Mubi South,"Lumore Street, Opposite District Head's Palace, Gela, Mubi South",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+33,Numan,"Councilors Quarters, Off Jalingo Road, Numan Lga",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+34,Toungo,"Barade Road, Oppoiste Sss Office, Toungo",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+35,Shellenge,"Old Local Govt Secretariat Street, Shelleng Town, Shelleng Lga",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+36,Song,"Opp. Cattage Hospital Yola Road, Song Local Govt. Area",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+37,Yola North,"No. 7 Demsawo Street, Demsawo Ward, Yola North Lga",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+38,Yola South,"Yola Bye-Pass Fufore Road Opp. Aliyu Mustapha College, Bako Ward, Yola Town, Yola South Lga",,ADAMAWA STATE,2,AD,161,NG,Nigeria
+39,Abak,"Old Party Secretariat, Stadium Road, Abak Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+40,Easthern Obolo,"Okoro Mboho Community, Eastern Obolo",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+41,Eket,"Former Party House, Oron Road, Eket Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+42,Esit Eket,"Old Party Secretariat, Ikpa, Esit Eket Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+43,Essien Udim,"Former Party Office, Ikot Ebak, Essien Udim Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+44,Etim Ekpo,"Lga Secretariat, Ika Road, Utu Etim Ekpo Etim",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+45,Etinan,"77 Hospital Road, Etinan, Etinan",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+46,Ibeno,"Low Cost Housing Estate, Upenekang, Ibeno Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+47,Ibesikpo Asutan,"Eket Road, Mbak Ekpe, Ibesikpo, Autan Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+48,Ibiono Ibom,"Hosing Estate, Oko Ita, Ibiono Ibom Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+49,Ika,"Urua Inyang, Ika Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+50,Ikono,"Ibiaku Ntok Okpo, Ikono Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+51,Ikot Abbi,"14 Uac Road, Ikot Abasi",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+52,Ikot Ekpene,"Obong Attah Low Cost Housing Estate, Off Aba Road, Ikot Ekpene Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+53,Ini,"Opposite Lga Secretariat, Odoro, Ikpe, Ini",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+54,Itu,"Old Party Secretariat, Mbak Atal Item, Itu Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+55,Mbo,"Ibaka Road, Opp. Lga Secretariat",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+56,Mkpatenin,"Mkpat Enin, Mkpat Enin Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+57,Nsit Atai,"Odot, Nsit Atai Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+58,Nsit Ibom,"Afaha Offiong, Nsit, Nsit Ibom Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+59,Nsit Ubium,"Ikot Edibon, Nsit Ubium Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+60,Obot Akara,"Low Cost Housing Estate, Nto Edino, Obot Akara Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+61,Okobo,"Oron Road, Opp. Low Cost Housing Estate, Okobo Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+62,Onna,"Old Sdp Party House, Okat, Onna Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+63,Oron,"1 Barr. J.J. Edem Avenue, Oron",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+64,Oruk Anam,"Beside Lg. Secretariat, Ikot Ibritam, Oruk Anam",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+65,Udung Uko,"Egbuhu Road, Eyo Atai, Udung Uko Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+66,Ukanafun,"Low Cost Housing Estate, Ikot Akpa Nkuk, Ukanafun Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+67,Urun,"Mbak Road, Idu Uruan Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+68,Urue Offong/Oruko,"Eket Road, Urueffong, Uruoeffong Oruko Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+69,Uyo,"Beside State Police Hq. Ikot Akpan Ibia, Uyo Lga",,AKWA IBOM STATE,3,AK,161,NG,Nigeria
+70,Aguota,"Mgbu-Okpo Village, Ekwulobia",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+71,Anamabra East,Otuocha Before Anambra East Lga Secretariat,,ANAMBRA STATE,4,AN,161,NG,Nigeria
+72,Anamabra West,"Anambra West Lga Secretariat, Nzam",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+73,Anocha,"Anocha Lga Secretariat, Neni",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+74,Awka North,"Akwa North Lga Secretariat, Achalla",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+75,Awka South,"Adjacent State Police Command, Old Government Station",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+76,Ayamelum,"Ayamelum  Lga Secretariat, Anaku",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+77,Dunukofia,"Adjacent Oye Market, Ukpo",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+78,Ekwusigo,"Premises Of Ekwusigo Lga, Onitsha Owerri Road, Ozubulu",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+79,Idemili North,"Adjacent Lga Secretariat, Ogidi",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+80,Idemili South,"Idemili South Lga Secretariat, Ogidi",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+81,Ihiala,"Ihiala  Lga Secretariat, Ihiala",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+82,Njikoka,"Abagana/Enugwu Agidi Road, Ndiiagu Village, Abagana",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+83,Nnewi North,"Adjacent Lga Secretariat, Nnewi",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+84,Nnewi South,"Ukpor Progressive Union Building, Along Central School Ukpor Road, Ukpor",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+85,Ogbaru,"Onitsha Atani-Osomala Ogwukpele Road, Atani Lga Secretariat, Atani",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+86,Onitsha North,"Old Temporary State Office, Okpuno Road, Awka",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+87,Onitsha South,"Old Temporary State Office, Okpuno Road, Awka",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+88,Orumba North,"Judiciary Premises Before Lga Secretariat, Ajalli",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+89,Orumba South,"Ajalli-Umunze Road, Ajacent Police Station, Umunze",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+90,Oyi,"Oyi  Lga Secretariat, Nteje",,ANAMBRA STATE,4,AN,161,NG,Nigeria
+91,Alkaleri,"Along Bauchi Road, Alkaleri",,BAUCHI STATE,5,BA,161,NG,Nigeria
+92,Bauchi,"Kofar Ran, Opp. Urban Maternity, Adamu Ajiya Road, Bauchi",,BAUCHI STATE,5,BA,161,NG,Nigeria
+93,Bogoro,"Opp. Lga Secretariat, Bogoro",,BAUCHI STATE,5,BA,161,NG,Nigeria
+94,Dambam,"Off Kano-Maiduguri Road, Dambam",,BAUCHI STATE,5,BA,161,NG,Nigeria
+95,Darazo,"Near V.I.O Office, Off Maiduguri Road, Darazo",,BAUCHI STATE,5,BA,161,NG,Nigeria
+96,Dass,"Along Dunkurma Street, Opp. Library, Dass",,BAUCHI STATE,5,BA,161,NG,Nigeria
+97,Gamawa,"Along Kano Road, Kafin Madaki",,BAUCHI STATE,5,BA,161,NG,Nigeria
+98,Glade,"Along Kano Road, Glade",,BAUCHI STATE,5,BA,161,NG,Nigeria
+99,Itas/Gadua,"Along Atafowa Road, Itas",,BAUCHI STATE,5,BA,161,NG,Nigeria
+100,Jama'are,"Near Water Board, Jama'are",,BAUCHI STATE,5,BA,161,NG,Nigeria
+101,Katagum,"Along Azare Bulkachuwa Road, Azare",,BAUCHI STATE,5,BA,161,NG,Nigeria
+102,Kirfi,"Adjacent Kirfi Police Station, Along Kirfi, Badara Road, Kirfi",,BAUCHI STATE,5,BA,161,NG,Nigeria
+103,Misau,"Along Kano Road, Misau",,BAUCHI STATE,5,BA,161,NG,Nigeria
+104,Ningi,"Opp. Ningi Police Station, Along Kano Road, Ningi",,BAUCHI STATE,5,BA,161,NG,Nigeria
+105,Shira,"Along Glade-Misau Road, Shira",,BAUCHI STATE,5,BA,161,NG,Nigeria
+106,Tafawa Balewa,"Along Gital/Bununu Road, Tafawa/Balewa Lga",,BAUCHI STATE,5,BA,161,NG,Nigeria
+107,Toro,"Lga Secretariat Road, Near First Bank, Toro",,BAUCHI STATE,5,BA,161,NG,Nigeria
+108,Warji,"Unguwar Gandu (Makera) Opp. Warji Micro-Finance Bank, Warji",,BAUCHI STATE,5,BA,161,NG,Nigeria
+109,Zaki,"Old Secretariat, Katagum, Adjascent Zaki Lga Secretariat, Katagum",,BAUCHI STATE,5,BA,161,NG,Nigeria
+110,Brass,Twon-Brass Brass Lga,,BAYELSA STATE,6,BY,161,NG,Nigeria
+111,Ekeremor,"Ekeremor Town, Ekeremor Lga",,BAYELSA STATE,6,BY,161,NG,Nigeria
+112,Kolokuma/Opokuma,Kolokuma/Opokuma,,BAYELSA STATE,6,BY,161,NG,Nigeria
+113,Ogbia,"Ogbia Town, Ogbla Lga",,BAYELSA STATE,6,BY,161,NG,Nigeria
+114,Nembe,"Nembe Town, Nembe Lga",,BAYELSA STATE,6,BY,161,NG,Nigeria
+115,Sagbama,"Sagbama Town, Sagbama Lga",,BAYELSA STATE,6,BY,161,NG,Nigeria
+116,Southern Ijaw,"Oporoma Town, Southern Ijaw Lga",,BAYELSA STATE,6,BY,161,NG,Nigeria
+117,Yenagoa,"Amarata Town, Yenagoa Lga",,BAYELSA STATE,6,BY,161,NG,Nigeria
+118,Ado Area Office,"Apa-Igumale Road, Opp. Police Station, Igumale",,BENUE STATE,7,BN,161,NG,Nigeria
+119,Agatu,"Ilodu House, Opp. Lgea Primary School, Obagaji",,BENUE STATE,7,BN,161,NG,Nigeria
+120,Apa,"Sussan Adamu House, Opp. Apama Hotel,Ugbokpo",,BENUE STATE,7,BN,161,NG,Nigeria
+121,Buruku," Along Gboko-Buruku Road, Near Youth Centre, Before Police Station, Buruku",,BENUE STATE,7,BN,161,NG,Nigeria
+122,Gboko,"Lubona Junction, Gboko-Yandeve Road, Gboko",,BENUE STATE,7,BN,161,NG,Nigeria
+123,Guma,"Gbajimba, Daudu Road, Behind Police Station, Opp. Lga Secretariat, Gbajimba",,BENUE STATE,7,BN,161,NG,Nigeria
+124,Gwer-East,"Aliade -Mkd Road, Adjacent To Police Station, Aliade",,BENUE STATE,7,BN,161,NG,Nigeria
+125,Gwer-West,"Naka Mkd Road, Opp. St. Theresa Primary School, Naka",,BENUE STATE,7,BN,161,NG,Nigeria
+126,Katsina Ala,"Behind Katsina Ala High Court, Katsina Ala",,BENUE STATE,7,BN,161,NG,Nigeria
+127,Konshisha,"Behind Lg. Secretariat, Tse-Agbelagba",,BENUE STATE,7,BN,161,NG,Nigeria
+128,Kwande,"Alongadikpo Kstasina-Ala Road, Near Y Junction, Adikpo",,BENUE STATE,7,BN,161,NG,Nigeria
+129,Logo,"Behind Police Station, Ugba",,BENUE STATE,7,BN,161,NG,Nigeria
+130,Makurdi,"Along Makurdi Lafia Road, Before Agan, Makurdi",,BENUE STATE,7,BN,161,NG,Nigeria
+131,Obi,"Opp. Obarike Mkt, Obarike-Ito, Obi Lga",,BENUE STATE,7,BN,161,NG,Nigeria
+132,Ogbadibo,Opp Ogbadibo Lga Secretariat,,BENUE STATE,7,BN,161,NG,Nigeria
+133,Ohimini,"Lga Secretariat, Idekpa",,BENUE STATE,7,BN,161,NG,Nigeria
+134,Oju,"Adjacent To Oju Lga Quarters, Oju",,BENUE STATE,7,BN,161,NG,Nigeria
+135,Okpokwu,"Behind Okpaga Police Station, Along Stadium Road, Okpoga",,BENUE STATE,7,BN,161,NG,Nigeria
+136,Otukpo,"Ikobi Village, Adjacent To General Hospital Along Otukpo Makurdi Road, Otukpo",,BENUE STATE,7,BN,161,NG,Nigeria
+137,Tarka,"Local Govt. Area Secretariat, Annune",,BENUE STATE,7,BN,161,NG,Nigeria
+138,Ushongo,"Ihugh Road, Near Mbagwa Comm. Secondary School, Lessel",,BENUE STATE,7,BN,161,NG,Nigeria
+139,Ukum,"Along Zakibiam -Wukari Road, Defunct Sdp Secretariat, Sankera",,BENUE STATE,7,BN,161,NG,Nigeria
+140,Vandeikya,"Tafawa Balewa Road, After Police Station Vandeikya",,BENUE STATE,7,BN,161,NG,Nigeria
+141,Aniocha North,"Secretariat Road, Ogbenti Quarters, Issele-Uku",,DELTA STATE,10,DT,161,NG,Nigeria
+142,Aniocha South,"Post Office Road, Ogwuashi-Uku",,DELTA STATE,10,DT,161,NG,Nigeria
+143,Bomadi,"Gra, Near Lga Council Office, Bomadi",,DELTA STATE,10,DT,161,NG,Nigeria
+144,Burutu,"Court Road, By Old Jetty Burutu",,DELTA STATE,10,DT,161,NG,Nigeria
+145,Ethiope East,"Urhuode Strewet, Isiokolo",,DELTA STATE,10,DT,161,NG,Nigeria
+146,Ethiope West,"Otorho Road, After Stadium, Oghara",,DELTA STATE,10,DT,161,NG,Nigeria
+147,Ika North,"No 5 Owa-Alero Road, Owa-Oyibo",,DELTA STATE,10,DT,161,NG,Nigeria
+148,Ika South,"Lga Secretariat, Abraka Road, Agbor",,DELTA STATE,10,DT,161,NG,Nigeria
+149,Isoko North,"No 220 Hospital Road, Ozoro",,DELTA STATE,10,DT,161,NG,Nigeria
+150,Isoko South,"D.P.O Road, Oleh",,DELTA STATE,10,DT,161,NG,Nigeria
+151,Ndokwa East,"No. 20 Agidigbo Street Umuojugbeli Qtrs, Aboh",,DELTA STATE,10,DT,161,NG,Nigeria
+152,Ndokwa West,"Umusadegie Road, Near Oceanic Bank, Kwale",,DELTA STATE,10,DT,161,NG,Nigeria
+153,Okpe,"No 49, Orerokpe Road, Opp. Police Station, Okpe",,DELTA STATE,10,DT,161,NG,Nigeria
+154,Oshimili North,"Akwukwu/Illah Road, Ogbe-Iyase Qtrs, Akwukwu-Igbo",,DELTA STATE,10,DT,161,NG,Nigeria
+155,Oshimili South,"Lga Secretariat, Along Benin-Asaba Express, Asaba",,DELTA STATE,10,DT,161,NG,Nigeria
+156,Patani,"By Waterman, Patani",,DELTA STATE,10,DT,161,NG,Nigeria
+157,Sapele,"Lga Secretariat, Dafinone Way, Opp. Stadium Sapele",,DELTA STATE,10,DT,161,NG,Nigeria
+158,Udu,"A1 & A2 Emorhie Street, Otor-Udu",,DELTA STATE,10,DT,161,NG,Nigeria
+159,Ughelli North,"No. 4 Gideon Ubiebor Road, Off Post Office Road, Ughelli",,DELTA STATE,10,DT,161,NG,Nigeria
+160,Ughelli South,"Macaulay Close, Off Hospital Road, Out-Jeremi",,DELTA STATE,10,DT,161,NG,Nigeria
+161,Ukwuani,"No 171 B, Old Sapale/Agbor Road, Obiaruku",,DELTA STATE,10,DT,161,NG,Nigeria
+162,Uvwie,"No 15, Agric Road, Effurum",,DELTA STATE,10,DT,161,NG,Nigeria
+163,Warri North,Aja-Gbu-Gbu Quarters Koko,,DELTA STATE,10,DT,161,NG,Nigeria
+164,Warri South,"No 50, Esisi Road, Gra, Warri City, Warri",,DELTA STATE,10,DT,161,NG,Nigeria
+165,Warri South West,"Arountheghena-Biri Quarters, Ogbe-Ijoh",,DELTA STATE,10,DT,161,NG,Nigeria
+166,Abakaliki,Behind Lga Secretariat,,EBONYI STATE,11,EB,161,NG,Nigeria
+167,Affikpo North,"Lga Secretariat, Affikpo",,EBONYI STATE,11,EB,161,NG,Nigeria
+168,Affikpo South,Inec Area Office Ngugu Edda,,EBONYI STATE,11,EB,161,NG,Nigeria
+169,Ebonyi Lga,"Ebonyi Lga Secretariat, Ugbodo",,EBONYI STATE,11,EB,161,NG,Nigeria
+170,Ezza North,"Lga Secretariat, Ebiaji",,EBONYI STATE,11,EB,161,NG,Nigeria
+171,Ezza South,"Uba/Animal Market Road, Onueke",,EBONYI STATE,11,EB,161,NG,Nigeria
+172,Ikwo,"Onuebonyi Echara, Near Lga Hq",,EBONYI STATE,11,EB,161,NG,Nigeria
+173,Ishielu,"Ishielu Lga Hq, Ezilo",,EBONYI STATE,11,EB,161,NG,Nigeria
+174,Ivo,"Opp. Lga Secretariat, Isiaka",,EBONYI STATE,11,EB,161,NG,Nigeria
+175,Izzi,Izzi Lga H/Q Iboko,,EBONYI STATE,11,EB,161,NG,Nigeria
+176,Ohaozara,"Ohaozara Lga Secretariat, Obiozara",,EBONYI STATE,11,EB,161,NG,Nigeria
+177,Ohaukwu,"Ohaukwu Lga H/Q, Ezzamgbo",,EBONYI STATE,11,EB,161,NG,Nigeria
+178,Onicha,"Onicha Lga Secretariat, Abakaliki Road, Isu",,EBONYI STATE,11,EB,161,NG,Nigeria
+179,Akoko Edo,"Lga Head Centre Complex Okpe Road, Igarra",,EDO STATE,12,ED,161,NG,Nigeria
+180,Egor,"Obazee Close, Off Osayande Street, Behind Uselue Sec. School Uselu",,EDO STATE,12,ED,161,NG,Nigeria
+181,Esan Central,"Along New Road, Beside Federal Ministry Of Agric, Irrua",,EDO STATE,12,ED,161,NG,Nigeria
+182,Esan North East,"20, General Hospital Road, Agbor Road, Uromi",,EDO STATE,12,ED,161,NG,Nigeria
+183,Esan South East,"Secretariat Road, Opp. Council Secretariat, Ubiaja",,EDO STATE,12,ED,161,NG,Nigeria
+184,Esan West,"Ukun Road, Old Sdp Secretariat, Ekpoma",,EDO STATE,12,ED,161,NG,Nigeria
+185,Etsako Central,"Ogbiadumeh Way, Opp. General Hospital, Agenebode",,EDO STATE,12,ED,161,NG,Nigeria
+186,Etsako East,"Upland Area, Opp. General Hospitalk, Agenebode",,EDO STATE,12,ED,161,NG,Nigeria
+187,Etsakowest,"Secretariat Road, By Lga Office Building, Auchi",,EDO STATE,12,ED,161,NG,Nigeria
+188,Igueben,"Behind Catholic Mission Eguare, Igueben",,EDO STATE,12,ED,161,NG,Nigeria
+189,Ikpoba Okha,"Along Custom Road, Near Fed, Housing Estate",,EDO STATE,12,ED,161,NG,Nigeria
+190,Oredo,"6,Plymouth Road, Near Oba Palace, Benin City",,EDO STATE,12,ED,161,NG,Nigeria
+191,Orhionmwon,"Lga Council Premises, Benin-Agbor Road, Abudu",,EDO STATE,12,ED,161,NG,Nigeria
+192,Ovia North East,"4, Mission Road, Iyaro Quarters, Okada",,EDO STATE,12,ED,161,NG,Nigeria
+193,Ovia North West,"Lga Education Authority Building, Iguobazuwa",,EDO STATE,12,ED,161,NG,Nigeria
+194,Owan East,"Along Afuze-Auchi Road, Opp. Osigbo Filling Station, Afuze",,EDO STATE,12,ED,161,NG,Nigeria
+195,Owanwest,"Lga Secretariat Premises, Sabongidda Ora",,EDO STATE,12,ED,161,NG,Nigeria
+196,Ado,"Secretariat Road, Ado Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+197,Efon,"Rev. Alokan House, Beside Ilesanmi Printing Press, Efon, Alaaye",,EKITI STATE,13,EK,161,NG,Nigeria
+198,Ekiti East,"Araromi Quarters, Along Omuo Oke Road, Omuo Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+199,Ekiti South West,"Along Aramoko Road, Beside The Police Station, Ilawe Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+200,Ekiti West,"Near Local Govt. Secretariat, Aramoko Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+201,Emure,Beside Emure Lga Office,,EKITI STATE,13,EK,161,NG,Nigeria
+202,Gbonyin,"Opposite Spring Bank, Omuo Road, Ido, Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+203,Ido/Osi,"Ipere Road, Ido, Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+204,Ijero,"Along Ipoti Road, After State Hospital, Ijero Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+205,Ikere,"Ise Orun Road, Ikere",,EKITI STATE,13,EK,161,NG,Nigeria
+206,Ikole,"Along Ikole-Omuo Express Way, Ikole, Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+207,Ilejemeje,"First Turning After The Oba's Palace To The Right, Iye",,EKITI STATE,13,EK,161,NG,Nigeria
+208,Irepodun/Ifelodun,"Igede Ekiti, Along Awo Road, Beside Lga Secretariat",,EKITI STATE,13,EK,161,NG,Nigeria
+209,Ise/Orun,"Ise/Orun Secretariat, Uso Road, Ise Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+210,Moba,"101 Oke Ibukun Street Along Aye Road, Otun Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+211,Oye,"Along Ilodo Street, Oye Ekiti",,EKITI STATE,13,EK,161,NG,Nigeria
+212,Aninri,"Within The Lga Secretariat, (Ndi-Abor Road)",,ENUGU STATE,14,EN,161,NG,Nigeria
+213,Awgu,Along Old Awgu-Okigwe Road (Within Native Authority Quarters),,ENUGU STATE,14,EN,161,NG,Nigeria
+214,Enugu East,"Within The Lga Secretariat, (Nkwonike)",,ENUGU STATE,14,EN,161,NG,Nigeria
+215,Enugu South,"Within The Lga Secretariat, (Nnobi Street, Off Zik Avenue)",,ENUGU STATE,14,EN,161,NG,Nigeria
+216,Ezeagu,Aguobu-Owa Road (Opp. Police Station),,ENUGU STATE,14,EN,161,NG,Nigeria
+217,Igbo-Etiti,Ogbede-Aku Road (Off Enugu Nsukka Express Road),,ENUGU STATE,14,EN,161,NG,Nigeria
+218,Igboeze North,Near The Lga Secretariat (Ogurute),,ENUGU STATE,14,EN,161,NG,Nigeria
+219,Igboeze South,Near The Lga Secretariat Ibagwa Town,,ENUGU STATE,14,EN,161,NG,Nigeria
+220,Isi-Uzo,Near Lga Secretariat Along Ikem Road,,ENUGU STATE,14,EN,161,NG,Nigeria
+221,Nkanu East,"Within The Lga Secretariat, Amagunze",,ENUGU STATE,14,EN,161,NG,Nigeria
+222,Nkanu West,"Within The Lga Secretariat, Agbani",,ENUGU STATE,14,EN,161,NG,Nigeria
+223,Nsukka,"Within The Lga Secretariat, Near Police Station",,ENUGU STATE,14,EN,161,NG,Nigeria
+224,Oji River,"Within The Lga Secretariat, Near Mile 2",,ENUGU STATE,14,EN,161,NG,Nigeria
+225,Udenu,Along Old Obollo-Afor Road,,ENUGU STATE,14,EN,161,NG,Nigeria
+226,Udi,"Udi Town, Along Enugu -Onitsha Old Road",,ENUGU STATE,14,EN,161,NG,Nigeria
+227,Uzo-Uwani,Umulokpa Town,,ENUGU STATE,14,EN,161,NG,Nigeria
+228,Abaji,"Near Women Model Centre Off Abaji Toto Road, Abaji.",,ABUJA FEDERAL CAPITAL TERRITORY,15,FCT,161,NG,Nigeria
+229,Amac,"Near Police Station, Karu Site, Karu Fct",,ABUJA FEDERAL CAPITAL TERRITORY,15,FCT,161,NG,Nigeria
+230,Bwari,"Beside Living Faith Church, Jamb Quarters Road, Bwari Fct",,ABUJA FEDERAL CAPITAL TERRITORY,15,FCT,161,NG,Nigeria
+231,Gwagwalada,"Beside Area Council Secretariat, Off Sharia Court Road, Gwagwalada",,ABUJA FEDERAL CAPITAL TERRITORY,15,FCT,161,NG,Nigeria
+232,Kuja,"Beside Fin. Bank, Plot 33a, Sauka Extention, Kuje-Fct",,ABUJA FEDERAL CAPITAL TERRITORY,15,FCT,161,NG,Nigeria
+233,Kwali,"Kda 301 Phase 11, Kwali - Fct",,ABUJA FEDERAL CAPITAL TERRITORY,15,FCT,161,NG,Nigeria
+234,Akko,"Behind Police Station, Kumo, Gombe",,GOMBE STATE,16,GM,161,NG,Nigeria
+235,Balanga,"Opp. Police Station, Talasse, Gombe",,GOMBE STATE,16,GM,161,NG,Nigeria
+236,Billiri,"Opp. Police Station, Along Gombe Road, Billiri",,GOMBE STATE,16,GM,161,NG,Nigeria
+237,Dukku,"Opp Police Station, Along Darazo Road, Dukku, Gombe",,GOMBE STATE,16,GM,161,NG,Nigeria
+238,Funakaye,"Behind Funakaye Lga Secretariat, Bajoga",,GOMBE STATE,16,GM,161,NG,Nigeria
+239,Gombe,"Along Dukku Road, Gombe",,GOMBE STATE,16,GM,161,NG,Nigeria
+240,Kaltungo,"Near Mal's Palace, Kaltungo",,GOMBE STATE,16,GM,161,NG,Nigeria
+241,Kwami,"Along Bajoga Road, Opp. Gss Malam Side, Kwami",,GOMBE STATE,16,GM,161,NG,Nigeria
+242,Nafada,"Near Central Primary School, Nafada",,GOMBE STATE,16,GM,161,NG,Nigeria
+243,Shongom,"Near Shongom Lga Secretariat, Shongom",,GOMBE STATE,16,GM,161,NG,Nigeria
+244,Yamaltu/Dba,"Opp. Yamalty/Deba Lga Secretariat, Deba",,GOMBE STATE,16,GM,161,NG,Nigeria
+245,Aboh Mbaise,Inside The Local Govt. Secretariat,,IMO STATE,17,IM,161,NG,Nigeria
+246,Ahiazu Mbaise,Behind The Local Govt. Stadium,,IMO STATE,17,IM,161,NG,Nigeria
+247,Ehime Mbano,"Along Umuezela Isiala Mbano Road, Near Aba Branch",,IMO STATE,17,IM,161,NG,Nigeria
+248,Ezinihitte Mbaise,Inside The Lga Secretariat,,IMO STATE,17,IM,161,NG,Nigeria
+249,Ideato North,Inside The Lga Secretariat,,IMO STATE,17,IM,161,NG,Nigeria
+250,Ideato South,Behind The Lga Office (SHARES A Common Fence With The Lga Office,,IMO STATE,17,IM,161,NG,Nigeria
+251,Ihitte Uboma,Along Isinweke Express Road,,IMO STATE,17,IM,161,NG,Nigeria
+252,Ikeduru,Opposite The Lga Office,,IMO STATE,17,IM,161,NG,Nigeria
+253,Isiala Mbano,Along Umuelemai/Umuezeala Road,,IMO STATE,17,IM,161,NG,Nigeria
+254,Isu,"Along The Lga Office Road, Umundugba",,IMO STATE,17,IM,161,NG,Nigeria
+255,Mbaitoli,"Along Awo-Mbieri Road, Nwaorieubi",,IMO STATE,17,IM,161,NG,Nigeria
+256,Ngor Okpala,Inside The Lga Office,,IMO STATE,17,IM,161,NG,Nigeria
+257,Njaba,Inside The Lga Office,,IMO STATE,17,IM,161,NG,Nigeria
+258,Nkwerre,"Along Nkwerre Orlu Road, Near The Lga Office",,IMO STATE,17,IM,161,NG,Nigeria
+259,Nwangele,Situated Within The Old Site Of The Lga Office,,IMO STATE,17,IM,161,NG,Nigeria
+260,Obowo,"Along Umuahia-Obowo Road, Opp. Obowo Police Station",,IMO STATE,17,IM,161,NG,Nigeria
+261,Oguta,At Nkwo-Oguta,,IMO STATE,17,IM,161,NG,Nigeria
+262,Ohaji/Egbema,Inside The Lga Secretariat Office,,IMO STATE,17,IM,161,NG,Nigeria
+263,Okigwe,Inside The Lga Complex,,IMO STATE,17,IM,161,NG,Nigeria
+264,Onuimo,Inside The Lga Office,,IMO STATE,17,IM,161,NG,Nigeria
+265,Orlu,Along Ezerioha Road,,IMO STATE,17,IM,161,NG,Nigeria
+266,Orsu,Along Police Station Road Awo-Idemili,,IMO STATE,17,IM,161,NG,Nigeria
+267,Oru East,Insde The Lga Office,,IMO STATE,17,IM,161,NG,Nigeria
+268,Oru West,"Along Onitsha-Owerri Road, Mgbidi (AFTER Magistrate Court-Sharing Same Fence",,IMO STATE,17,IM,161,NG,Nigeria
+269,Owerri Municipal,"Opposite The State Post Office, Along Douglas Road, Within The Lga Secretariat",,IMO STATE,17,IM,161,NG,Nigeria
+270,Owerri North,After The Lga H/Q (ORIE Uratta),,IMO STATE,17,IM,161,NG,Nigeria
+271,Owerri West,Within The Lga Office,,IMO STATE,17,IM,161,NG,Nigeria
+272,Auyo,"Auyo Town, Near District Head Office, Auyo",,JIGAWA STATE,18,JG,161,NG,Nigeria
+273,Birnin Kudu,"Maiduguri Road, Birnin Kudu",,JIGAWA STATE,18,JG,161,NG,Nigeria
+274,Birniwa,"Along Nguru Road, Birniwa Town",,JIGAWA STATE,18,JG,161,NG,Nigeria
+275,Buji,Gantsa Town,,JIGAWA STATE,18,JG,161,NG,Nigeria
+276,Dutse,"Isa Gambo Road, Dutse",,JIGAWA STATE,18,JG,161,NG,Nigeria
+277,Gagarawa,"Opp. Police Station, Gagarawa",,JIGAWA STATE,18,JG,161,NG,Nigeria
+278,Garki,"Opposite Market, Garki",,JIGAWA STATE,18,JG,161,NG,Nigeria
+279,Gumel,"Gagarawa Road, Gumel",,JIGAWA STATE,18,JG,161,NG,Nigeria
+280,Guri,"Layin Tijjani Magini, Guri Arewa, Guri",,JIGAWA STATE,18,JG,161,NG,Nigeria
+281,Gwaram,"Lga State Quarters, Gwaram",,JIGAWA STATE,18,JG,161,NG,Nigeria
+282,Gwiwa,"Near Special Primary School, Giwa Town",,JIGAWA STATE,18,JG,161,NG,Nigeria
+283,Hadejia,"M/Madori Road, Hadeja",,JIGAWA STATE,18,JG,161,NG,Nigeria
+284,Jahun,"Near Local Govt. Secretariat, Jahun Town",,JIGAWA STATE,18,JG,161,NG,Nigeria
+285,Kafin Hausa,"Jahun Road, Kafin Hausa",,JIGAWA STATE,18,JG,161,NG,Nigeria
+286,Kaugama,"Yanleman Road, Kaugama Town",,JIGAWA STATE,18,JG,161,NG,Nigeria
+287,Kazaure,"Near Police Station, Kazaure",,JIGAWA STATE,18,JG,161,NG,Nigeria
+288,Kiri Kasamma,Kiri Kasamma Town,,JIGAWA STATE,18,JG,161,NG,Nigeria
+289,Kiyawa,"Dutse Road, Kiyawa  Town",,JIGAWA STATE,18,JG,161,NG,Nigeria
+290,Maigatari,"Gumel Road, Maigatari Town",,JIGAWA STATE,18,JG,161,NG,Nigeria
+291,Malam Madori,"Near Police Station, Malam Ma",,JIGAWA STATE,18,JG,161,NG,Nigeria
+292,Miga,Miga Town,,JIGAWA STATE,18,JG,161,NG,Nigeria
+293,Ringim,Near General Hospital Ringim Town,,JIGAWA STATE,18,JG,161,NG,Nigeria
+294,Roni,"Near Local Govt. Secretariat, Ronitown",,JIGAWA STATE,18,JG,161,NG,Nigeria
+295,Sule Tankarkar,"Gumei Road, Sule Tankarkar Town",,JIGAWA STATE,18,JG,161,NG,Nigeria
+296,Taura,"Kano Road, Taura",,JIGAWA STATE,18,JG,161,NG,Nigeria
+297,Yankwashi,"Near District Head Office, Yankwashi Town",,JIGAWA STATE,18,JG,161,NG,Nigeria
+298,Birnin Gwari,"Savannah Street, Opp. Lga Secretariate, B/Gwari",,KADUNA STATE,19,KD,161,NG,Nigeria
+299,Chukun,"Along Kaduna/Kachia Road, Kujama",,KADUNA STATE,19,KD,161,NG,Nigeria
+300,Giwa,"No 2 Galadima Road, Giwa",,KADUNA STATE,19,KD,161,NG,Nigeria
+301,Igabi,Turunku/Farakwai Road Opp. Lga Secretariat Turunku,,KADUNA STATE,19,KD,161,NG,Nigeria
+302,Ikara,"Opposite Lga Secretariat, Ikara",,KADUNA STATE,19,KD,161,NG,Nigeria
+303,Jaba,"Off Sabon Gari Road, Behind Div. H/Qtrs, Nigerian Police, Ngarsu-Kwoi",,KADUNA STATE,19,KD,161,NG,Nigeria
+304,Jema'a,"Anguwar Rimi Road, Opposite Police Hq, Anguwar Padu, Kafanchan",,KADUNA STATE,19,KD,161,NG,Nigeria
+305,Kachia,"No 2 Makarfi Road, Kachia",,KADUNA STATE,19,KD,161,NG,Nigeria
+306,Kaduna North,"Abubakar Kigo Road, Magajin Gari, Kaduna",,KADUNA STATE,19,KD,161,NG,Nigeria
+307,Kaduna South,"Somalia Road, Opp. Barnawa Police Station, Low Cost, Barnawa",,KADUNA STATE,19,KD,161,NG,Nigeria
+308,Kagarko,"Inside Lga Secretariat Building, Kajuru",,KADUNA STATE,19,KD,161,NG,Nigeria
+309,Kajuru,"No 4. Opposite Lga Secretariat, Kajuru",,KADUNA STATE,19,KD,161,NG,Nigeria
+310,Kaura,"Near Kaura Market Square, Along Kaura-Manchok Road",,KADUNA STATE,19,KD,161,NG,Nigeria
+311,Kauru,"Along Police Station/Lga Secretariate, Kaura",,KADUNA STATE,19,KD,161,NG,Nigeria
+312,Kubau,"Old Dispensary Building, Sani Abacha Way, Takalifya, Anchau",,KADUNA STATE,19,KD,161,NG,Nigeria
+313,Kudan,Along Main Street In Kunkuyi Town,,KADUNA STATE,19,KD,161,NG,Nigeria
+314,Lere,Along Lga Secretariat Saminaka,,KADUNA STATE,19,KD,161,NG,Nigeria
+315,Makarfi,"Governor Road, Adjacent To Lga Secretariat, Makarfi",,KADUNA STATE,19,KD,161,NG,Nigeria
+316,Sabon Gari,"No 4 Daurawa Street, Gra, Sabong Ari-Zaria",,KADUNA STATE,19,KD,161,NG,Nigeria
+317,Sanga,"Opposite Area Court, Sanga",,KADUNA STATE,19,KD,161,NG,Nigeria
+318,Soba,"Along Zaria -JOS Road, Opp. Soba Lga Secretariat, Maigam",,KADUNA STATE,19,KD,161,NG,Nigeria
+319,Zaria,"Opp. D/Magaji Market, Along Kaduna-Kano Express Way",,KADUNA STATE,19,KD,161,NG,Nigeria
+320,Zangon Kataf,"Opp. Police Station, Kurmi, B. Zonkwa",,KADUNA STATE,19,KD,161,NG,Nigeria
+321,Albasu,"Pnda Road, Opp. Lga Secretariat",,KANO STATE,20,KN,161,NG,Nigeria
+322,Bagwai,"Main Road Near Islamic Center, Sbong Ari, Bagwai Town",,KANO STATE,20,KN,161,NG,Nigeria
+323,Dala,"No 35, Layin Dala Garbaje, Gwammaja Layout, Kano",,KANO STATE,20,KN,161,NG,Nigeria
+324,Danbatta,"No 1 Ring Road, Bye-Pass, Kano, Daura Road",,KANO STATE,20,KN,161,NG,Nigeria
+325,D/Tofa,Behind Uba D/Tofa Branch,,KANO STATE,20,KN,161,NG,Nigeria
+326,Gaya,"Wudil Dutse Road, Near Lga Secretariat, Gaya Town",,KANO STATE,20,KN,161,NG,Nigeria
+327,Gwale,"Gwale Filnin Mushe Gwale Quarters, Kano",,KANO STATE,20,KN,161,NG,Nigeria
+328,Doguwa,Adjacent To Market Ririwai Town,,KANO STATE,20,KN,161,NG,Nigeria
+329,Kibiya,Old Dispensary Building Inside Local Govt. Secretariat,,KANO STATE,20,KN,161,NG,Nigeria
+330,Kabo,Behind Lga Secretariat,,KANO STATE,20,KN,161,NG,Nigeria
+331,Gezawa,"Gumel Road, Adjacent To Divisional Police Station Gezawa",,KANO STATE,20,KN,161,NG,Nigeria
+332,Kunchi,"Opposite District Head Place, Kunchi",,KANO STATE,20,KN,161,NG,Nigeria
+333,Karaye,Opp Karaye Lga Secretariat,,KANO STATE,20,KN,161,NG,Nigeria
+334,Garum Malan,"Chromawa Road, Garun Malam Town P.M.B 3021",,KANO STATE,20,KN,161,NG,Nigeria
+335,Madobi,Adjacent To Madobi Lga Secretariat Madobi Town,,KANO STATE,20,KN,161,NG,Nigeria
+336,Gabasawa,"Kano Zazirai Road, Opp. Police Station, Zakirai Town",,KANO STATE,20,KN,161,NG,Nigeria
+337,Rimin Gado,"Opp. Lga Secretariat, Gwarzo Road",,KANO STATE,20,KN,161,NG,Nigeria
+338,Rogo,"No 13. Surajo Road, Rogo Town",,KANO STATE,20,KN,161,NG,Nigeria
+339,Shanono,"Opp. Lga Secretariat, Adjacent To Police Station",,KANO STATE,20,KN,161,NG,Nigeria
+340,Municipal,"Zoo Road, Behind Buhari Shopping Complex, Kundila Estate A/Albasu",,KANO STATE,20,KN,161,NG,Nigeria
+341,Sumaila,"Opposite Market Near Police Station, Divisional Sumaila Town",,KANO STATE,20,KN,161,NG,Nigeria
+342,Tarauni,"No 142 Unguwar Uku Old Motor Park, Zaria Road, Kano",,KANO STATE,20,KN,161,NG,Nigeria
+343,Tsanyawa,"Opp. Tsanyawa Ggss, Along Kano Katsina Road",,KANO STATE,20,KN,161,NG,Nigeria
+344,Tudun Wada,"Near Zonal Education Office, Along Jos, Kano",,KANO STATE,20,KN,161,NG,Nigeria
+345,Tofa,No. Kofar Kudu Tofa Town,,KANO STATE,20,KN,161,NG,Nigeria
+346,Takai,Behind Lga Secretariat Taki Town,,KANO STATE,20,KN,161,NG,Nigeria
+347,Kura,"Dalili Quarters, Inside Lga Secretariat, Kura Town",,KANO STATE,20,KN,161,NG,Nigeria
+348,Warawa,"Inside Local Govt. Secretariat, Warawa Town",,KANO STATE,20,KN,161,NG,Nigeria
+349,Garko,"Along Kibiya Road, After Ggss, Garko, Garko Town",,KANO STATE,20,KN,161,NG,Nigeria
+350,Ajingi,"No 3 Govt Sec. School Quarters, Ajingi Along, Gss Road, Ajingi",,KANO STATE,20,KN,161,NG,Nigeria
+351,Bichi,"Opp. Islamic Centre Katsina Road, Ajingi",,KANO STATE,20,KN,161,NG,Nigeria
+352,Minjinbir,"Minjibir Local Govt. Secretariat, Minjibir",,KANO STATE,20,KN,161,NG,Nigeria
+353,Rano,"Rano Kano Road, Opp. Police Station, Kano",,KANO STATE,20,KN,161,NG,Nigeria
+354,Bunkure,"Bunkure Local Govt. Secretariate, Opp. Treasury Dept. Of The Local  Govt",,KANO STATE,20,KN,161,NG,Nigeria
+355,Kiru,"Kiru Kofar Kudu Along Tahfizul Qur'an Way, Kiru City",,KANO STATE,20,KN,161,NG,Nigeria
+356,Gwarzo,"Gwarzo Town Along Getso/Karaye Road, Kano State",,KANO STATE,20,KN,161,NG,Nigeria
+357,Ungogo,"Along Main Road, To Ungogo Town, Adjacent To Ungogo Lga Secretariate",,KANO STATE,20,KN,161,NG,Nigeria
+358,Makoda,Koguna Koguna H/Q Kano State,,KANO STATE,20,KN,161,NG,Nigeria
+359,Wudil,"Hisba Office, Wudil, Along Gaya Road, Wudil",,KANO STATE,20,KN,161,NG,Nigeria
+360,Nassarawa,"Club Road, Opp. School Health Tech Brigade Qtrs",,KANO STATE,20,KN,161,NG,Nigeria
+361,Bebeji,"Layin Kofa, Opp. Lgea, Bebeji Town",,KANO STATE,20,KN,161,NG,Nigeria
+362,Faffe,Noman's Land Behind Rent Tribunal Court,,KANO STATE,20,KN,161,NG,Nigeria
+363,D/Kudu,"Opp. Science Sec. Sch. Adjacent Lga Secretariat, D/Kudu Town",,KANO STATE,20,KN,161,NG,Nigeria
+364,Kumbotso,"Kimbotso Road, Behind Lga Secretariat, Kumboytso Town",,KANO STATE,20,KN,161,NG,Nigeria
+365,Baure,"Directly Opposite Police Station, Baure",,KATSINA STATE,21,KT,161,NG,Nigeria
+366,Bakori,"Near Bakori Police Station, Along Funtua Road, Bakori",,KATSINA STATE,21,KT,161,NG,Nigeria
+367,Bindawa,"Opposite Police Station, Bindawa",,KATSINA STATE,21,KT,161,NG,Nigeria
+368,Daura,"Along Katsina Road, Beside Local Govt. Area Secretariat",,KATSINA STATE,21,KT,161,NG,Nigeria
+369,Dutsi," Near District Head's Office, Dutsi",,KATSINA STATE,21,KT,161,NG,Nigeria
+370,Dutsin-Ma,"Along Isah Kaita College Of Education Road, Dutsin-Ma",,KATSINA STATE,21,KT,161,NG,Nigeria
+371,Mani,Behind Local Govt. Area Council Secretariate,,KATSINA STATE,21,KT,161,NG,Nigeria
+372,Faskari,"Yankara, Malgora Road, Faskari",,KATSINA STATE,21,KT,161,NG,Nigeria
+373,Safana,"New Layout, Safana",,KATSINA STATE,21,KT,161,NG,Nigeria
+374,Kafur,"Zaria Road, Opposite Kafur Lga Education Authority",,KATSINA STATE,21,KT,161,NG,Nigeria
+375,Katsina,"No 2 Kabir Usman Road, Katsina",,KATSINA STATE,21,KT,161,NG,Nigeria
+376,Funtua,"Zaria Road, Behind Central Police Station, Funtua",,KATSINA STATE,21,KT,161,NG,Nigeria
+377,Charanchi,"Along Kano Road, Charanchi",,KATSINA STATE,21,KT,161,NG,Nigeria
+378,Zango,"Along Custom Barrack Road, Opposite Zango Police Station",,KATSINA STATE,21,KT,161,NG,Nigeria
+379,Ingawa,"Along Mani Road, Ingawa",,KATSINA STATE,21,KT,161,NG,Nigeria
+380,Musawa,"Musawa Lga General Hospital Road, Musawa",,KATSINA STATE,21,KT,161,NG,Nigeria
+381,Mashi,"Mashi Local Govt. Along Katsina-Daura Road, Near Police Station Mashi",,KATSINA STATE,21,KT,161,NG,Nigeria
+382,Sabuwa,"Adjacent Divisional Police Office, Gra, Sabuwa",,KATSINA STATE,21,KT,161,NG,Nigeria
+383,Kankia,"Kankia Local Govt. Secretariat, Dutsin Ma Road, Kankia",,KATSINA STATE,21,KT,161,NG,Nigeria
+384,Kusada,"Opposite Kusada Stream, Kusada",,KATSINA STATE,21,KT,161,NG,Nigeria
+385,Kaita,"Along Katsina -KAITA Road, Close To Police Station Kaita",,KATSINA STATE,21,KT,161,NG,Nigeria
+386,Rimi,"Opposite Police Station, Rimi",,KATSINA STATE,21,KT,161,NG,Nigeria
+387,Malumfashi,"Off Funtua Road, Opposite  Lga Secretariate, M/Fashi",,KATSINA STATE,21,KT,161,NG,Nigeria
+388,Kurfi,"Shagara Lowcost Housing Units, Along D/Ma Road, Kurfi",,KATSINA STATE,21,KT,161,NG,Nigeria
+389,Sandamu,"Opposite General Hospital, Sandamu",,KATSINA STATE,21,KT,161,NG,Nigeria
+390,Matazu,"Along The Road To Matazu Lga Secretariat, Matazu",,KATSINA STATE,21,KT,161,NG,Nigeria
+391,Dandume,"42 Yusuf One Maikano Crescent, Along Funtua Birnin Gwari Road, Dandume",,KATSINA STATE,21,KT,161,NG,Nigeria
+392,Batagarawa,"Batagarawa Lowcost, Batagarawa",,KATSINA STATE,21,KT,161,NG,Nigeria
+393,Jibia,"Magama-Jibia Road, Behind Lga Coucil Secretariat, Jibia",,KATSINA STATE,21,KT,161,NG,Nigeria
+394,Batsari,"Katsina Road, Behind Local Govt. Area Coucil Secretariat, Batsari",,KATSINA STATE,21,KT,161,NG,Nigeria
+395,Mai'adua,"Behind Lga Council Secretariat, Mai'adua",,KATSINA STATE,21,KT,161,NG,Nigeria
+396,Danmusa,"Along Secretariat Road, Danmusa",,KATSINA STATE,21,KT,161,NG,Nigeria
+397,Kankara,"Beside Lga Council Secretariate, Kankara",,KATSINA STATE,21,KT,161,NG,Nigeria
+398,Danja,"Opposite Market, Off Bakori Road, Danja",,KATSINA STATE,21,KT,161,NG,Nigeria
+399,Aliero,"Tadi, Opposite Magistrate Court, Aliero",,KEBBI STATE,22,KB,161,NG,Nigeria
+400,Gwandu,Opposite Area Court Gwandu,,KEBBI STATE,22,KB,161,NG,Nigeria
+401,Kalgo,Beside Tashar Kalgo,,KEBBI STATE,22,KB,161,NG,Nigeria
+402,Bunza,"Marafa Area, Bunza Lga",,KEBBI STATE,22,KB,161,NG,Nigeria
+403,Birnin Kebbi,"Ahmadu Bello Way, Opp. Fcmb, Birnin Kebbi",,KEBBI STATE,22,KB,161,NG,Nigeria
+404,Suru,"Dakin Gari Town, Tashar Daji Area",,KEBBI STATE,22,KB,161,NG,Nigeria
+405,Fakai,"Beside Ifad Office, Mahutu",,KEBBI STATE,22,KB,161,NG,Nigeria
+406,Danko Wasagu,Awala Str. Behind Police Div. Ribah,,KEBBI STATE,22,KB,161,NG,Nigeria
+407,Bagudo,Along Bagudo Lga Secretariat,,KEBBI STATE,22,KB,161,NG,Nigeria
+408,Arewa,"Kabba Road, Oppoiste Lga Secretariat Kangiwa",,KEBBI STATE,22,KB,161,NG,Nigeria
+409,Koko/Bersse,"Kurba, Besse Town",,KEBBI STATE,22,KB,161,NG,Nigeria
+410,Maiyama,"Along Kontagora Road, Nera Kasuwar Maiyama",,KEBBI STATE,22,KB,161,NG,Nigeria
+411,Ngaski,"Sabon Gari Wara, Along Gen Hospital Road, Wara",,KEBBI STATE,22,KB,161,NG,Nigeria
+412,Jega,"Bayan Gidan Cinema, Jega Along Mera/Zagi Road, Augie",,KEBBI STATE,22,KB,161,NG,Nigeria
+413,Augie,"Along Mera/Zagi Road, Augie",,KEBBI STATE,22,KB,161,NG,Nigeria
+414,Argungu,"Gra, Along Sokoto Road Argungu",,KEBBI STATE,22,KB,161,NG,Nigeria
+415,Dandi,"New Margaret, Along B/Kebbi Road, Kamba",,KEBBI STATE,22,KB,161,NG,Nigeria
+416,Sakaba,"Along Secretariat Road, Birnin Daji",,KEBBI STATE,22,KB,161,NG,Nigeria
+417,Shanga,"Shanga Lga Secretariat Opp. Women Centre, Shanga",,KEBBI STATE,22,KB,161,NG,Nigeria
+418,Yauri,Ungwar Hutawa Yauri,,KEBBI STATE,22,KB,161,NG,Nigeria
+419,Zuru,"Behind Police Station, Zuru",,KEBBI STATE,22,KB,161,NG,Nigeria
+420,Adavi,"Beside Local Govt. Despensary, Oba Ngede Junction, Obu Buru",,KOGI STATE,23,KG,161,NG,Nigeria
+421,Ajaokuta,"Beside Divisional Police Station, Adogo",,KOGI STATE,23,KG,161,NG,Nigeria
+422,Ankpa,"Murtala Muhd Way, Opp. United Bank For Africa (UBA), Ankpa",,KOGI STATE,23,KG,161,NG,Nigeria
+423,Bassa,"Beside Ministry Of Education, Oguma, Bassa Lga",,KOGI STATE,23,KG,161,NG,Nigeria
+424,Dekina,"Opp. Local Govt. Secretariat, Dekina",,KOGI STATE,23,KG,161,NG,Nigeria
+425,Ibaji,Onyedega Beside Ibaji Local Govt. Secretariat,,KOGI STATE,23,KG,161,NG,Nigeria
+426,Idah,"Gra, Idah Ayangba Road, Idah Lga",,KOGI STATE,23,KG,161,NG,Nigeria
+427,Igalamela/Odolu,"Igalamela Lga Quest House, Ajaka Idah Road, Iga Lamela, Ajaka",,KOGI STATE,23,KG,161,NG,Nigeria
+428,Ijumu,"Behind Police Station, Iyara",,KOGI STATE,23,KG,161,NG,Nigeria
+429,Kabba/Bunu Lga,"Along Ilorin Road, Beside First Bank",,KOGI STATE,23,KG,161,NG,Nigeria
+430,Kogi (KK),"Opposite Ohimage's Palace, Kotonkarfe",,KOGI STATE,23,KG,161,NG,Nigeria
+431,Lokoja,"Behind Post Office, Lokoja",,KOGI STATE,23,KG,161,NG,Nigeria
+432,Mopamuro,Odere Mop Amuro Logal Govt. Area,,KOGI STATE,23,KG,161,NG,Nigeria
+433,Ofu,"Old Local Govt. Road, Gra Quarters, Ugwolawo",,KOGI STATE,23,KG,161,NG,Nigeria
+434,Ogori/Mago Ngo,"Akpafa Road, Before Ogori/Magongo Lga Secretariat",,KOGI STATE,23,KG,161,NG,Nigeria
+435,Okehi,"Beside Okehi Lga Secretariat, Oba Ngede",,KOGI STATE,23,KG,161,NG,Nigeria
+436,Okene,"No. 146 Mission Road, Bariki, Extension, Okene Lga",,KOGI STATE,23,KG,161,NG,Nigeria
+437,Olamaboro,"Beside Olamaboro Divisional Police Station, Okpo",,KOGI STATE,23,KG,161,NG,Nigeria
+438,Omala,"Omala Lga Secretariat Premiess, Abejukolo",,KOGI STATE,23,KG,161,NG,Nigeria
+439,Yagba/East,"Isanlu Beside, Lga Secretariat",,KOGI STATE,23,KG,161,NG,Nigeria
+440,Yagba/West,"Egbe Road, Odo-Ere",,KOGI STATE,23,KG,161,NG,Nigeria
+441,Asa,"Off Ojoku Road, Behind Police Station, Irede, Afon",,KWARA STATE,24,KW,161,NG,Nigeria
+442,Baruten,"Old Baruten Lga Secretariat, Kosubosu",,KWARA STATE,24,KW,161,NG,Nigeria
+443,Edu,"Lga Secretariat Area, Gra, Lafiagi",,KWARA STATE,24,KW,161,NG,Nigeria
+444,Ekiti,"Old Garage, Osi, Aranorin Opin",,KWARA STATE,24,KW,161,NG,Nigeria
+445,Ifelodun,"Ifelodun Lga Secretariat Area, Share",,KWARA STATE,24,KW,161,NG,Nigeria
+446,Ilorin East,"Beside Ndlea Office, Opp. Harmony Estate, Akereblata-Sobi Road, Oke-Oyi, Ilorin.",,KWARA STATE,24,KW,161,NG,Nigeria
+447,Ilorin South,"Along Fufu-Apaola Road, Beside Lga Secretariat, Fufu",,KWARA STATE,24,KW,161,NG,Nigeria
+448,Ilorin West,"Ipata-Oloje Junction, Anifowoshe, Oja-Oba",,KWARA STATE,24,KW,161,NG,Nigeria
+449,Irepodun,"Opposite Nepa Sub Station, Omu-Aran",,KWARA STATE,24,KW,161,NG,Nigeria
+450,Isin,"Old Lga Secretariat Building, Owu-Isin",,KWARA STATE,24,KW,161,NG,Nigeria
+451,Kalama,"Opp. Lga Secretariat, Kalama",,KWARA STATE,24,KW,161,NG,Nigeria
+452,Moro,"Ejidongari Road, Opp. Police Station, Bode-Sa’adu",,KWARA STATE,24,KW,161,NG,Nigeria
+453,Offa,Inside Off Alga Secretariat,,KWARA STATE,24,KW,161,NG,Nigeria
+454,Oke-Ero,"Oke Osin Street, Iloffa",,KWARA STATE,24,KW,161,NG,Nigeria
+455,Oyun,"Old Oyun Lga Secretariat, Ilemona",,KWARA STATE,24,KW,161,NG,Nigeria
+456,Patigi,"Ipada Bus Stop, Near Union Bank, Patigi",,KWARA STATE,24,KW,161,NG,Nigeria
+457,Agege,"Off Old Ipaja Road, Abekoko Agege",,LAGOS STATE,25,LA,161,NG,Nigeria
+458,Ajeromi-Ifelodun,"Council Secretariat, Ajegunle",,LAGOS STATE,25,LA,161,NG,Nigeria
+459,Alimosho,"Council Secretariat, Ikotun",,LAGOS STATE,25,LA,161,NG,Nigeria
+460,Amuwo-Odofin,"Council Secretariat 41 Road, Festac Town",,LAGOS STATE,25,LA,161,NG,Nigeria
+461,Apapa,"Council Secretariat, Burma Road, Apapa",,LAGOS STATE,25,LA,161,NG,Nigeria
+462,Badagry,"Council Secretariat, Ajara, Badagry",,LAGOS STATE,25,LA,161,NG,Nigeria
+463,Epe,"Iraye Road, Epe",,LAGOS STATE,25,LA,161,NG,Nigeria
+464,Eti-Osa,"Glover Road, Ikoyi",,LAGOS STATE,25,LA,161,NG,Nigeria
+465,Ibeju-Lekki,"Akodo Road, Magbon, Ibeju",,LAGOS STATE,25,LA,161,NG,Nigeria
+466,Ifako-Ijaiye,"Agbdo Road, Ojokoro",,LAGOS STATE,25,LA,161,NG,Nigeria
+467,Ikeja,"Council Secretariat, Obafemi Awolowo Road, Ikeja",,LAGOS STATE,25,LA,161,NG,Nigeria
+468,Ikorodu,"Oriwu Road, Ite-Elewa, Ikorodu",,LAGOS STATE,25,LA,161,NG,Nigeria
+469,Kosofe,"Council Secretariat, Ogudu Road, Ojota",,LAGOS STATE,25,LA,161,NG,Nigeria
+470,Lagos Island,"Zappas Building, Freeman Str. Lagos-Island",,LAGOS STATE,25,LA,161,NG,Nigeria
+471,Lagos-Mainland,"Council Secretariat, Adekunle, Lagos",,LAGOS STATE,25,LA,161,NG,Nigeria
+472,Mushin,"Oliyide Str, Mushin",,LAGOS STATE,25,LA,161,NG,Nigeria
+473,Ojo,"Council Secretariat, Olojo Drive, Ojo",,LAGOS STATE,25,LA,161,NG,Nigeria
+474,Oshodi-Isolo,"Oyetayo Road, Bolade, Oshodi",,LAGOS STATE,25,LA,161,NG,Nigeria
+475,Somolu,"Saibu Salami Str. Pedro, Somolu",,LAGOS STATE,25,LA,161,NG,Nigeria
+476,Surulere,"Somade Crescent, Surulere",,LAGOS STATE,25,LA,161,NG,Nigeria
+477,Akwanga,"Behind Education Department, Akwanga Town.",,NASARAWA STATE,26,NW,161,NG,Nigeria
+478,Awe,"Obi Road, Awe",,NASARAWA STATE,26,NW,161,NG,Nigeria
+479,Doma,Behind Lga Secretariat,,NASARAWA STATE,26,NW,161,NG,Nigeria
+480,Karu,Karu Lga Secretariat,,NASARAWA STATE,26,NW,161,NG,Nigeria
+481,Keana,Behind Tormer Lga Secretariat,,NASARAWA STATE,26,NW,161,NG,Nigeria
+482,Keffi,Beside Nepa Office,,NASARAWA STATE,26,NW,161,NG,Nigeria
+483,Kokona,By Lga Secretariat,,NASARAWA STATE,26,NW,161,NG,Nigeria
+484,Lafia,Lafia Local Govt. Area Secretariat,,NASARAWA STATE,26,NW,161,NG,Nigeria
+485,Nasarawa,Behind Police Station,,NASARAWA STATE,26,NW,161,NG,Nigeria
+486,Nasarawa Egon,"Lafia Road, Nasarawa Egon",,NASARAWA STATE,26,NW,161,NG,Nigeria
+487,Obi,Obi Local Govt. Secretariat,,NASARAWA STATE,26,NW,161,NG,Nigeria
+488,Toto,Tot Local Govt. Secretariat,,NASARAWA STATE,26,NW,161,NG,Nigeria
+489,Wamba,Wamba Logl Govt. Secretariat,,NASARAWA STATE,26,NW,161,NG,Nigeria
+490,Agale,"Santali Road, After Lga Secretariat, Agaie",,NIGER STATE,27,NG,161,NG,Nigeria
+491, Agwara,"Opposite Police Station, Along Agwara-Borgu Road, Agwara Lga",,NIGER STATE,27,NG,161,NG,Nigeria
+492, Bida,"Umaru Magajib Ward, Yahayas, Dangana Way, Bida Lga",,NIGER STATE,27,NG,161,NG,Nigeria
+493, Borgu,"Borgu Lga New Bussa, Niger",,NIGER STATE,27,NG,161,NG,Nigeria
+494, Bosso,"Along Leg Road, Opp. Baband Abo Primary/Junior Secondary Schoo, Near Divisional Police Station, Maikunkele, Bosso Lga",,NIGER STATE,27,NG,161,NG,Nigeria
+495,Chanchaga,"Along Niger State Houseso Assembly Quarters, Western Byepass, Minna",,NIGER STATE,27,NG,161,NG,Nigeria
+496,Edati,"Opposite Local Govt. Secretariat Road Edati Lga, Edati",,NIGER STATE,27,NG,161,NG,Nigeria
+497,Gbako,"Along Bida-Zungeru Road, Gbako Lga, Lemu",,NIGER STATE,27,NG,161,NG,Nigeria
+498,Gurara,"Gwadene Primary School, Gawu Babangida",,NIGER STATE,27,NG,161,NG,Nigeria
+499,Katcha,"Gangiarea, Along Loga Secretariat, Katcha Katcha Lga",,NIGER STATE,27,NG,161,NG,Nigeria
+500,Kontagora,"Near Hamdala Motors, Along Kontagora-Yauri Road, Kontagoa",,NIGER STATE,27,NG,161,NG,Nigeria
+501,Lapai,"Along Minna Road, Beside Pension Office, Lapai",,NIGER STATE,27,NG,161,NG,Nigeria
+502,Lavun,"Opposite Plice Station, Along Bida-Mokwa Road, Lavun",,NIGER STATE,27,NG,161,NG,Nigeria
+503,Magama,"Off Lga Secretariat Road, Magama Lga, Nasko",,NIGER STATE,27,NG,161,NG,Nigeria
+504,Mariga,"Unguwan Sarki, Opposite Central Mosque Bangi",,NIGER STATE,27,NG,161,NG,Nigeria
+505,Mashegu,"Adogu, Near Adogu Primary School, Mashegu",,NIGER STATE,27,NG,161,NG,Nigeria
+506,Mokwa,"Off Agric Road, Mokwa Lga",,NIGER STATE,27,NG,161,NG,Nigeria
+507,Munya,"Munya Lga, Sabon Bari Sarkin Pawa",,NIGER STATE,27,NG,161,NG,Nigeria
+508,Paikoro,"Along Old Abuja Road, Adjacent Uk Bello Primary School, Paikoro",,NIGER STATE,27,NG,161,NG,Nigeria
+509,Rafi,"Behind Police Barracks, Along Lagos-Kaduna Road, Rafi Lga, Kagara",,NIGER STATE,27,NG,161,NG,Nigeria
+510,Rijau,"Dirin-Daji/Tungan Magajiya Road, Junction, Rijau",,NIGER STATE,27,NG,161,NG,Nigeria
+511,Shiroro,"Anguwan Chika- Kuta, Near Lag Secretariat, Gussoroo Road, Kuta",,NIGER STATE,27,NG,161,NG,Nigeria
+512,Suleja,"Along Suleja Minna Road, Opp. Suleman Barau Technical Collage, Kwamba",,NIGER STATE,27,NG,161,NG,Nigeria
+513,Tafa,"Beside The Div. Off. Station, Along Kaduna-Abuja Express Road, Sabo-Wuse, Tafa Lga",,NIGER STATE,27,NG,161,NG,Nigeria
+514,Wushishi,"Women Centre, Behind Magistration Court, Along Lemu-Gida Road, Wushishi.",,NIGER STATE,27,NG,161,NG,Nigeria
+515,Abeokuta North,"Along Arakanga Water Corporation Road, Akomoje, Abeokuta North",,OGUN STATE,28,OG,161,NG,Nigeria
+516,Abeokuta South,"Iyana Mortuary Opp. Local Govt. Education Authority Office, Abeokuta",,OGUN STATE,28,OG,161,NG,Nigeria
+517,Ado Odo/Ota,"Local Govt. Area Secretariat, Ota",,OGUN STATE,28,OG,161,NG,Nigeria
+518,Egbado North,"Beside Yewa North Loga Secretariat, Ayetoro",,OGUN STATE,28,OG,161,NG,Nigeria
+519,Egbado South,"Behind Lga Secretariat, Udjo Road, Ilaro",,OGUN STATE,28,OG,161,NG,Nigeria
+520,Ewekoro,"Inside Lga Secretariat, Itori, Ewekoro",,OGUN STATE,28,OG,161,NG,Nigeria
+521,Ifo,"Bungalow Area,  Lagos/Abeokuta Express Road, Ifo",,OGUN STATE,28,OG,161,NG,Nigeria
+522,Ijebu East,"Off Old Benin Road, Ogbere (AFTER Lga Secretariat)",,OGUN STATE,28,OG,161,NG,Nigeria
+523,Ijebu North,"Oke-Agbo Elere Asigbidi Road, Ijebu-Igbo",,OGUN STATE,28,OG,161,NG,Nigeria
+524,Ijebu North East,Inside Local Govt. Area Secrtariat,,OGUN STATE,28,OG,161,NG,Nigeria
+525,Ijebu-Ode,"Inside Local Govt. Secrtariat, Itoro, Ijebu-Ode",,OGUN STATE,28,OG,161,NG,Nigeria
+526,Ikenne,"Beside Water Works, Ikenne",,OGUN STATE,28,OG,161,NG,Nigeria
+527,Imeko/Afon,"Behind Motor Park, Imeko",,OGUN STATE,28,OG,161,NG,Nigeria
+528,Ipokia,Beside District High,,OGUN STATE,28,OG,161,NG,Nigeria
+529,Obafemi/Owode,"Along Lga Secretariat Road, Owode",,OGUN STATE,28,OG,161,NG,Nigeria
+530,Odeda,"Beside Egba/Odeda High Schoo, Along Ibadan Road, Odeda",,OGUN STATE,28,OG,161,NG,Nigeria
+531,Odogbolu,Licensing Office Building (FIRST Floor) Odogbolu,,OGUN STATE,28,OG,161,NG,Nigeria
+532,Ogun Waterside,Along Lga Secretariat Waterside,,OGUN STATE,28,OG,161,NG,Nigeria
+533,Remo North,"Along Lga Secretariat Road, Isara",,OGUN STATE,28,OG,161,NG,Nigeria
+534,Sagamu,"Opp. Sagamu High Court, Along High Court's Raod, Sagamu.",,OGUN STATE,28,OG,161,NG,Nigeria
+535,Akoko North East,"Yame Quarters, Off Oke Agbe Road, Behind Mount Camel School, Ikare",,ONDO STATE,29,OD,161,NG,Nigeria
+536,Akoko North West,"Ikarea Mu/Ibaramu Road, Oge Quarters, Oke Agbe",,ONDO STATE,29,OD,161,NG,Nigeria
+537,Akoko South East,"Behind Police Station B. Isua Isale Road, Isua Akoko",,ONDO STATE,29,OD,161,NG,Nigeria
+538,Akoko Sourth West,"Opp. St. Patricks College, Iwaro-Oka, Oka Akoko",,ONDO STATE,29,OD,161,NG,Nigeria
+539,Akure Norh,"Inec Office, Iju",,ONDO STATE,29,OD,161,NG,Nigeria
+540,Akure South,"Futa Junction, Cassava Bus Stop, Behind Dpc Pure Water Company",,ONDO STATE,29,OD,161,NG,Nigeria
+541,Ese Odo,"Lga Secretariat, Igbekebo",,ONDO STATE,29,OD,161,NG,Nigeria
+542,Idanre,"Opp. Our Savour Pry. Schoo, Owena",,ONDO STATE,29,OD,161,NG,Nigeria
+543,Ifedore,"Dam Raod, Igbara, Oke",,ONDO STATE,29,OD,161,NG,Nigeria
+544,Ilaje,"Gra Quarters, Igbokoda",,ONDO STATE,29,OD,161,NG,Nigeria
+545,Ileoluji/Okeigbo,"Old Lge Secretariat, Ile-Oluji",,ONDO STATE,29,OD,161,NG,Nigeria
+546,Irele,"Owodunni Street, Ode-Irele",,ONDO STATE,29,OD,161,NG,Nigeria
+547,Odigbo,"Orita Odigbo, By Min. Of Education",,ONDO STATE,29,OD,161,NG,Nigeria
+548,Okitipupa,"Akure Road, Okitipupa",,ONDO STATE,29,OD,161,NG,Nigeria
+549,Ondo East,Behind Old Police Station Bolorunduro,,ONDO STATE,29,OD,161,NG,Nigeria
+550,Ondo West,"Akure Road, Ondo",,ONDO STATE,29,OD,161,NG,Nigeria
+551,Ose,"Benin-Owo Express Way, Opp. Akure-Owo Park, Ifon",,ONDO STATE,29,OD,161,NG,Nigeria
+552,Owo,"Along Old Ikare Road, Beside Water Corporation Office Owo",,ONDO STATE,29,OD,161,NG,Nigeria
+553,Atak East,"G 63, Odo-Odi Street, Along Comm. Sec. Sch. Temidire, Iperindo.",,OSUN STATE,30,OS,161,NG,Nigeria
+554,Atak West,"Ife Road, Opp. Govt. Tech. College Site, Osu",,OSUN STATE,30,OS,161,NG,Nigeria
+555,Ayedaade,"Behind Ayedaade Lga. Secretariat, Gogongan Junction, Gbonga",,OSUN STATE,30,OS,161,NG,Nigeria
+556,Ayedire,"Ayedire Lga Secretariat, Ilegbo",,OSUN STATE,30,OS,161,NG,Nigeria
+557,Boluwaduro,"Opp. Owa Otan Palace, Ila Road, Otan Ayegbaju",,OSUN STATE,30,OS,161,NG,Nigeria
+558,Boripe,"Iragbji Town Hall, Iragbji",,OSUN STATE,30,OS,161,NG,Nigeria
+559,Ede North,"Along Ilobu/Erin Road, Camp Youg Area, Ede",,OSUN STATE,30,OS,161,NG,Nigeria
+560,Ede South,"Behind Ede South Lga, Secretariat, Oke Iresi, Akoda Road, Ede.",,OSUN STATE,30,OS,161,NG,Nigeria
+561,Egbodore,"Opp. Police Station, Along Irageri Road, Awo",,OSUN STATE,30,OS,161,NG,Nigeria
+562,Ejigbo,"Opp. Police Station, Along Irageri Road, Awo",,OSUN STATE,30,OS,161,NG,Nigeria
+563,Ife Central,"No. 108, Hezekiah Oluwasanmi, Oluorogbo Road, 7, Ile-Ife",,OSUN STATE,30,OS,161,NG,Nigeria
+564,Ife East,"No. 27, Omototo Line 3, Ilode, Ile-Ife.",,OSUN STATE,30,OS,161,NG,Nigeria
+565,Ife North,"Opp. Fed. Govt. Giris College. Ode Omu Road, Ipettumodu.",,OSUN STATE,30,OS,161,NG,Nigeria
+566,Ife South,"Alagbado Street, Beside Police Station, Ifeledo",,OSUN STATE,30,OS,161,NG,Nigeria
+567,Ifedayo,"Back Of Ifedayo Lg, Oke-Ila, Orangun",,OSUN STATE,30,OS,161,NG,Nigeria
+568,Ifelodun,"Back Of Ifelodun Lga Secretariat, Ikirun",,OSUN STATE,30,OS,161,NG,Nigeria
+569,Ila,Behind Women Education Centre Oke-Ogbun Ila-Orangun,,OSUN STATE,30,OS,161,NG,Nigeria
+570,Ilesa East,"Beside Ilesa East Lga Secretariat, Along Iyemogun Road, Ilesa",,OSUN STATE,30,OS,161,NG,Nigeria
+571,Ilesa West,"Behind Ogedengbe School Of Science, Ilaje, Ilesa",,OSUN STATE,30,OS,161,NG,Nigeria
+572,Irepodun,"Opp. Lga Secretaria, Ilobu",,OSUN STATE,30,OS,161,NG,Nigeria
+573,Irewole,"Behind Orisunmbare Saw Mill Along Ife/Ibadan Express Way, Ikire",,OSUN STATE,30,OS,161,NG,Nigeria
+574,Isokan,"Beside Rasdebuy Filling Station, Along Ibadan Road, Sawmill, Apomu",,OSUN STATE,30,OS,161,NG,Nigeria
+575,Iwo,"Behind Oluwo Markt Along Iwo Ibadan Road, Iwo",,OSUN STATE,30,OS,161,NG,Nigeria
+576,Obokun,"Behind I Bokun Police Station, Ipetu-Ile/Ada-Owode/Ikirun Road, Ibokun",,OSUN STATE,30,OS,161,NG,Nigeria
+577,Odo-Otin,"Behind Oluwo Market Along Iwo Ibadan Road, Iwo",,OSUN STATE,30,OS,161,NG,Nigeria
+578,Ola-Oluwa,"Osogbo Ilorin Express Way, Okuku",,OSUN STATE,30,OS,161,NG,Nigeria
+579,Olorunda,"Behind Ola-Oluwa Lga, Police Station, Ikonifin, Ile-Ogo Road, Bode Osi",,OSUN STATE,30,OS,161,NG,Nigeria
+580,Oriade,"Near Palace, Ijebu-Jesa",,OSUN STATE,30,OS,161,NG,Nigeria
+581,Orolu,"Orolu Academy Building, Ogbomoso Road, Along Orolu Lga Ifon",,OSUN STATE,30,OS,161,NG,Nigeria
+582,Osogbo,"Adjacent Ministry Of Agric, Ilobu Road, Oke-Fia, Osogbo",,OSUN STATE,30,OS,161,NG,Nigeria
+583,Ife East Area Office,"Opp. Ogusua's Palace, Itamerin, Modakeke-Ife",,OSUN STATE,30,OS,161,NG,Nigeria
+584,Afijio,Afijo Lga Secretariat Prmises,,OYO STATE,31,OY,161,NG,Nigeria
+585,Akinyele,Akinyele Lga Secretariat Premise,,OYO STATE,31,OY,161,NG,Nigeria
+586,Atiba,"Health Office Premises, Yidi, Agunpopo Arae, Oyo",,OYO STATE,31,OY,161,NG,Nigeria
+587,Atisbo,"Isale, Lgbagbo, Tede",,OYO STATE,31,OY,161,NG,Nigeria
+588,Egbeda,"Sep House, Along Old Ife Road, Ibadan",,OYO STATE,31,OY,161,NG,Nigeria
+589,Ibadan North,"Ibadan North Lga Secretariat Premises, Agodi. Gate, Ibadan",,OYO STATE,31,OY,161,NG,Nigeria
+590,Ibadan North-East,"Irewumi B/Stop, Along Agugu Oremeji Road, Ibadan",,OYO STATE,31,OY,161,NG,Nigeria
+591,Ibadn North-West,"Ibadan North West Lga Secretariat Premises, Onireke",,OYO STATE,31,OY,161,NG,Nigeria
+592,Ibadan South-East,"Ibadan South East Lga Secretariat, 3rd Floor Complex, Mapo Hill, Ibanan",,OYO STATE,31,OY,161,NG,Nigeria
+593,Ibadan South West,"Oluyole Extension, Ring Road, Behind Total Filling Station, Ibadan",,OYO STATE,31,OY,161,NG,Nigeria
+594,Ibarapa Central,"Along Igboora Idere Road, Igboora",,OYO STATE,31,OY,161,NG,Nigeria
+595,Ibarapa Central,"Adjacent Ibarapa East Leg Secretariat, Eruwa",,OYO STATE,31,OY,161,NG,Nigeria
+596,Ibarapa East,"Opp. Yulatam Filling Station, Ayete",,OYO STATE,31,OY,161,NG,Nigeria
+597,Ibarapa North,"Ido-Eruwa Road, Opp. Ido Lga Secretariat, Ido",,OYO STATE,31,OY,161,NG,Nigeria
+598,Irepo,"Along Old Igboho-Dam Road, Kishi",,OYO STATE,31,OY,161,NG,Nigeria
+599,Iseyin,"Beside Iseyin Lga Secretariat, At The Back Of Uba Bank, Oluwole Iseyin",,OYO STATE,31,OY,161,NG,Nigeria
+600,Itesiwaju,"No. 59, Ilero Road, Out",,OYO STATE,31,OY,161,NG,Nigeria
+601,Iwajowa,"Opp. A.U.D. Pry. School, Iwere-Ile",,OYO STATE,31,OY,161,NG,Nigeria
+602,Kajola,"Old Kajola Secretariat, Okeho",,OYO STATE,31,OY,161,NG,Nigeria
+603,Lagelu,"Ile-Igbon B/Stop, Along Iyana Off A Road, Ibadan",,OYO STATE,31,OY,161,NG,Nigeria
+604,Ogbomoso North,"Akolata-Oke Owode Osogbo Road, Ogbmoso",,OYO STATE,31,OY,161,NG,Nigeria
+605,Ogbomoso South,"Along Ajaawa-Ogbomoso Road, Arowomole, Ogbomoso",,OYO STATE,31,OY,161,NG,Nigeria
+606,Ogo-Oluwa," Behine Police Station, Ajaawa",,OYO STATE,31,OY,161,NG,Nigeria
+607,Olorunsogo,"Television Viewing Centre Premises, Beside U.M.C.E Pry. Sch., Igbeti",,OYO STATE,31,OY,161,NG,Nigeria
+608,Oluyole,"Oluyole Lga Secretariat Premise, Idi- Ayunre",,OYO STATE,31,OY,161,NG,Nigeria
+609,Ona-Ara,"Akanran-Ijebu Igbo Road, Opp. Ona-Area Lga Secretariat, Akanran",,OYO STATE,31,OY,161,NG,Nigeria
+610,Oorelope,"Beside Oorelope Lga Secretariat, Along Sepeteri Road, Igboho",,OYO STATE,31,OY,161,NG,Nigeria
+611,Oriire,"Igbeti Road, Igbeti",,OYO STATE,31,OY,161,NG,Nigeria
+612,Oyo East,"Akuinlemu, Oyo",,OYO STATE,31,OY,161,NG,Nigeria
+613,Oyo West,"Along Iseyin Road, Opp. Pastoral School, Isokun",,OYO STATE,31,OY,161,NG,Nigeria
+614,Saki East,"Ile Maye, Opp. Former Lga Secretariat, Ago-Amodu",,OYO STATE,31,OY,161,NG,Nigeria
+615,Saki West,"Saki-Oje Owode Road, Opp. Baptist High School, Saki",,OYO STATE,31,OY,161,NG,Nigeria
+616,Surulere,"Iregba Road, Iresa Adu",,OYO STATE,31,OY,161,NG,Nigeria
+617,Barkin Ladi,"Lawrence Onoja Rd, Near Barkin Ladi Police Station B/Ladi",,PLATEAU STATE,32,PL,161,NG,Nigeria
+618,Bassa,"Behind Jaiyi Filling Station, Adjacent First Bank, Rukuba, Bassa",,PLATEAU STATE,32,PL,161,NG,Nigeria
+619,Bokkos,"Along The Chief Magistrate Court, Bokkos",,PLATEAU STATE,32,PL,161,NG,Nigeria
+620,Jos East,"Beside Divisional Police H/Q, Agwanre",,PLATEAU STATE,32,PL,161,NG,Nigeria
+621,Jos North,"Former Jos North Lga Secretariat, Opp. Gbong Gwom Jos",,PLATEAU STATE,32,PL,161,NG,Nigeria
+622,Jos South,"Jos-South, Adjacent To Dadin Kown Comprehensive Health Centre, Dadin Kowa (LAST Gate) Jos",,PLATEAU STATE,32,PL,161,NG,Nigeria
+623,Kanam,"Close To The Divisional Police Station, Dengi-Former Sdp Secretariat, Dengi",,PLATEAU STATE,32,PL,161,NG,Nigeria
+624,Kanke,"Kanke Opposite Lga Secretaria, Kwal",,PLATEAU STATE,32,PL,161,NG,Nigeria
+625,Lantang North,"Old Sdp Secretariat, Shendam Road, L/North Lga",,PLATEAU STATE,32,PL,161,NG,Nigeria
+626,Lantang South,"Behind Market, Mabudi",,PLATEAU STATE,32,PL,161,NG,Nigeria
+627,Mangu,"Mangu Opposite Alh. Manu Block Industry, Near Mwansat Bridget, Jos Road, Mangu",,PLATEAU STATE,32,PL,161,NG,Nigeria
+628,Mikang,"Adjacent Police Station, Mikang",,PLATEAU STATE,32,PL,161,NG,Nigeria
+629,Pankshin,"Pankshin, Behind State Low Cost, Panksin",,PLATEAU STATE,32,PL,161,NG,Nigeria
+630,Qua'an-Pan,"Qua'an-Pan Ba'ap Before Police Divisional Office, Behind Zonal Educational Office, Qua'an-Pan",,PLATEAU STATE,32,PL,161,NG,Nigeria
+631,Riyom,"Riyom, Opp. Govt. Sec. School, Riyom Lga.",,PLATEAU STATE,32,PL,161,NG,Nigeria
+632,Shendam,"Behind Divisional Police Hqtrs, Shendam",,PLATEAU STATE,32,PL,161,NG,Nigeria
+633,Wase,"Adj Acent To The Lga Secretariat, Wase",,PLATEAU STATE,32,PL,161,NG,Nigeria
+634,Abua Odual,"Opp. Nigeria Police Station, By Round About, Ayama, Abua-Odual Lga",,RIVERS STATE,33,RV,161,NG,Nigeria
+635,Ahodada East,"Along Omoku Road, Opp. The Nigeria Police Station, Ahoada East",,RIVERS STATE,33,RV,161,NG,Nigeria
+636,Ahodada West,"Opp. The Roman Catholic Church, Akinima, Ahoada West",,RIVERS STATE,33,RV,161,NG,Nigeria
+637,Akuku-Toru,"24, Young Briggs, Onubio-Briggs Compound, Abonnema/Obonoma Road, Akuku-Toru",,RIVERS STATE,33,RV,161,NG,Nigeria
+638,Andoni,"Inside The Lga Secretariat, Anodni",,RIVERS STATE,33,RV,161,NG,Nigeria
+639,Asaritoru,"Buguma Sandfilled, Near The Police Station, Buguma City",,RIVERS STATE,33,RV,161,NG,Nigeria
+640,Bonny,"Opp. The Lg Council Staff Lodge, Bonny Island",,RIVERS STATE,33,RV,161,NG,Nigeria
+641,Degema,"Inside The Lga Secretariat, Degema",,RIVERS STATE,33,RV,161,NG,Nigeria
+642,Eleme,"Located At Ogale, Eleme Lga",,RIVERS STATE,33,RV,161,NG,Nigeria
+643,Emohua,"Inside The Lga Secretarit, Emohua",,RIVERS STATE,33,RV,161,NG,Nigeria
+644,Etche,"Inside The Lga Secretarit, Okehi, Etche",,RIVERS STATE,33,RV,161,NG,Nigeria
+645,Gokana,"Inside The Divisional Police Hq In Kpor, Gokana",,RIVERS STATE,33,RV,161,NG,Nigeria
+646,Ikwere,"Inside The Lga, Isiokpo, Ikwerre",,RIVERS STATE,33,RV,161,NG,Nigeria
+647,Khana,"Behind Counil's Mechanic Shed, Khana Lga",,RIVERS STATE,33,RV,161,NG,Nigeria
+648,Obio/Akpor,"Inside The Lga Rumuodomaya, Obio/Akpor",,RIVERS STATE,33,RV,161,NG,Nigeria
+649,Ogu/Bolo,"Inside The Lga Secretariat, Along Ogu Majoe Road",,RIVERS STATE,33,RV,161,NG,Nigeria
+650,Okirika,"Inside The Lga Secretariat, Behind Nuleg Office, Okirika",,RIVERS STATE,33,RV,161,NG,Nigeria
+651,Omuma,"Umualika, Eberi Omuma Lga",,RIVERS STATE,33,RV,161,NG,Nigeria
+652,Ogba/Egbema/Ndony,"Inside The Lga Secrtariat, Behind The Educaton Authority Office, One Lga",,RIVERS STATE,33,RV,161,NG,Nigeria
+653,Opobo/Nkoro,"5 Opobo New Layout, Opp. Cottage Hospital, Opobo Town",,RIVERS STATE,33,RV,161,NG,Nigeria
+654,Oyigbo,"Inside The Lga Secretariat, Oyigbo",,RIVERS STATE,33,RV,161,NG,Nigeria
+655,Phalga,"49 Aba Road, By Eastern Garden Rest Port Harcourt",,RIVERS STATE,33,RV,161,NG,Nigeria
+656,Tai,"Botem Road, Beside Tai Lga, Secretariat, Saakpenwa.",,RIVERS STATE,33,RV,161,NG,Nigeria
+657,Ardo Kola,"Sunkani, Opp. Lga Secretariat, Ardo Kola",,TARABA STATE,35,TR,161,NG,Nigeria
+658,Bali,"Opp. Govt. Lodge, Bali",,TARABA STATE,35,TR,161,NG,Nigeria
+659,Donga,"Lga Secretariat, Donga",,TARABA STATE,35,TR,161,NG,Nigeria
+660,Gashaka,"Opp. Police Station, Gashaka",,TARABA STATE,35,TR,161,NG,Nigeria
+661,Gassol,"Mutum Biyu, No. 2 Malam Lamu Street, Gassol Lga",,TARABA STATE,35,TR,161,NG,Nigeria
+662,Ibi,"Ibi Lga Secretariat, Bib Lga",,TARABA STATE,35,TR,161,NG,Nigeria
+663,Jalingo,"Wuro Sembe Road, Jalingo Lga",,TARABA STATE,35,TR,161,NG,Nigeria
+664,Karim Lamido,"New Market Road, Karim Lamido",,TARABA STATE,35,TR,161,NG,Nigeria
+665,Kurmi,"Baissa, Adjacent Pace Hotel, Kurmi Lga",,TARABA STATE,35,TR,161,NG,Nigeria
+666,Lau,"Behind Lga Secretariat, Lau Lga",,TARABA STATE,35,TR,161,NG,Nigeria
+667,Sardauna,"Gembu, Kabri Road, Sardauna Lga",,TARABA STATE,35,TR,161,NG,Nigeria
+668,Takum,"Yola Road, Takum",,TARABA STATE,35,TR,161,NG,Nigeria
+669,Ussa,"Lissam, Takum - Ussa Road, Ussa",,TARABA STATE,35,TR,161,NG,Nigeria
+670,Wukari,"Wukari, Takum Road, Wukari",,TARABA STATE,35,TR,161,NG,Nigeria
+671,Yorro,"Near Lga Secretariat, Pantisawa Lga",,TARABA STATE,35,TR,161,NG,Nigeria
+672,Zing,"Hospital Road, Zing Lga",,TARABA STATE,35,TR,161,NG,Nigeria
+673,Special Area Ussa,"Yangtu Development Arae, Dev. Area Secretariat, Ussa, Kwambai",,TARABA STATE,35,TR,161,NG,Nigeria
+674,Bade,"Opp. Gss Cashua, Nguru Road, Gashua",,YOBE STATE,36,YB,161,NG,Nigeria
+675,Bursari,Adjacent Police Station Dapchi,,YOBE STATE,36,YB,161,NG,Nigeria
+676,Damaturu,"Opp. Yobe Savings And Loans Potiskum Road, Damaturu",,YOBE STATE,36,YB,161,NG,Nigeria
+677,Fune,"Bakati, Damagum",,YOBE STATE,36,YB,161,NG,Nigeria
+678,Fika,"Behind Lga Secretariat, Mainai Fika",,YOBE STATE,36,YB,161,NG,Nigeria
+679,Geidam,"Adjacent State Polytechnic, Gashua Road, Geidam",,YOBE STATE,36,YB,161,NG,Nigeria
+680,Gujba,"Damaturu Road, Op. Police Divisional Office, Buni Yadi",,YOBE STATE,36,YB,161,NG,Nigeria
+681,Gulani,Adjacent Bara Central Primary School Bara,,YOBE STATE,36,YB,161,NG,Nigeria
+682,Jakusko,"Opp. Gss, Jakusko, Gashua Road, Jakusko",,YOBE STATE,36,YB,161,NG,Nigeria
+683,Karasuwa,"Local Education Authority, Gashua Road, Jaji Maji",,YOBE STATE,36,YB,161,NG,Nigeria
+684,Machina,"Bakin Kasuwa Viewing Centre, Machina",,YOBE STATE,36,YB,161,NG,Nigeria
+685,Nangere,House No. 10 Gra Sabongari Nangere.,,YOBE STATE,36,YB,161,NG,Nigeria
+686,Nguru,Adjacent Lga Sabongari Nangere,,YOBE STATE,36,YB,161,NG,Nigeria
+687,Potiskum,"Pitiskum Gashua Road, Near Grains Market, Potiskum",,YOBE STATE,36,YB,161,NG,Nigeria
+688,Tramuwa,"Gashua Road, Babbangida",,YOBE STATE,36,YB,161,NG,Nigeria
+689,Yunusari,"Adjacent Central Primary School, Kanamma",,YOBE STATE,36,YB,161,NG,Nigeria
+690,Yusufari,"Opp. Lga Secretariat, Yusu-Fari",,YOBE STATE,36,YB,161,NG,Nigeria
+691,Anka,"Off Emir's Palace, Anka",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+692,Bakura,"Along Emir's Palace, Bakura",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+693,Birnin Magaji,"Opp. Police Station, Binin Magaji",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+694,Bukkuyum,"Opp. Motor Park, Bukkuyum",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+695,Bungudu,Opp. Lga Secretairat Bungudu,,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+696,Gummi,"Opp. High Court, Gummi",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+697,Gusau,"Tudun Wada, Along Kaura Namoda Road, Gusa",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+698,Kaura-Namoda,"Opp. Kaura Namoda Police Station, K/Namoda",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+699,Maradun,Off Maradun Lga Secretariat,,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+700,Maru,"Opp. College Of Education, Maru",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+701,Shinkafi,"Along Isa Road, Shinkafi",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+702,Talata-Mafara,Behind Police Station T/Mafara,,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+703,Tsafe,"Opposite Police Station, Tsafe",,ZAMFARA STATE,37,ZF,161,NG,Nigeria
+704,Zurmi,Opposite Lga Secretariat Zurmi,,ZAMFARA STATE,37,ZF,161,NG,Nigeria
